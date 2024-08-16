@@ -5,15 +5,15 @@
     <hr>
      
     <label for="Name"><b>Enter First Name</b></label>
-    RST<input type="text" placeholder="Enter First Name" name="Name" id="Name" required>
+    RST<input type="text" placeholder="Enter First Name" name="First Name" id="Name" required>
     <br>
 
     <label for="Name"><b>Enter Middle Name</b></label>
-    <input type="text" placeholder="Enter Middle Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Middle Name" name="Mid Name" id="Name" required>
     <br>
 
     <label for="Name"><b>Enter Last Name</b></label>
-    <input type="text" placeholder="Enter Last Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Last Name" name="Last Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
