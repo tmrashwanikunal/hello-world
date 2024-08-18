@@ -24,7 +24,7 @@
     <input type="text" placeholder="Enter Your Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Enter your Secrat key</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
