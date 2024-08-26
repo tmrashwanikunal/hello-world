@@ -25,7 +25,7 @@
     <br>
 
     <label for="psw"><b>Enter your Secrat key</b></label>
-    <input type="password" placeholder="Enter Secrat key" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter your Secrat key" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat your Secrat key<</b></label>
